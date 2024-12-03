@@ -1,0 +1,7 @@
+[build]
+  command = "npm install"
+  functions = "netlify/functions"  # Ensure this path is relative to the netlify.toml file location
+
+[dev]
+  # Specify the functions directory for local development
+  functions = "netlify/functions"

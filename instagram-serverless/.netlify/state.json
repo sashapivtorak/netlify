@@ -1,0 +1,21 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Ostrava",
+			"country": {
+				"code": "CZ",
+				"name": "Czechia"
+			},
+			"subdivision": {
+				"code": "80",
+				"name": "Moravskoslezský kraj"
+			},
+			"timezone": "Europe/Prague",
+			"latitude": 49.7977,
+			"longitude": 18.2311,
+			"postalCode": "700 30"
+		},
+		"timestamp": 1733185882478
+	},
+	"siteId": "33e85b83-f864-4ac5-8e5b-5eec7be926aa"
+}
